@@ -79,7 +79,7 @@ $num2=$_POST['num2'];
                             <input type="submit" value="/" name="s4">
                         </div>
                         <div>
-                            <input type="reset" value="clear" name="s">
+                            <input type="reset" value="clear" name="s5">
                         </div>
                     </div>
                 </div>
