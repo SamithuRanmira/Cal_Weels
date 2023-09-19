@@ -20,14 +20,45 @@ body
 .container_01
 {
 
-    width: 600px;
-    height: 460px;
-    background-color: red;
+    width: 400px;
+    height: 200px;
+    background-color: rgb(246, 188, 188);
 
 }
 
-.inputs 
+.container_02
+{
+
+    width: 400px;
+    height: 200px;
+    text-align: center;
+}
+
+.inputs > div
 {
 
     padding: 10px;
+}
+
+.operators
+{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.operators > div
+{
+
+    padding: 10px;
+    
+}
+
+.container_03 .operators > div > input
+{
+
+    width: 40px;
+    height: 40px;
 }
